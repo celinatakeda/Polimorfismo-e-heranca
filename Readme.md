@@ -1,6 +1,6 @@
 
-Exercício de polimorfismo e herança.
-
+# Exercício de polimorfismo e herança.
+```
 -Criação da superclasse Animal que servirá de base para outras classes(subclasses)
 com reaproveitamento de seus atributos ou métodos.
 
@@ -9,6 +9,4 @@ classe Animal por meio da palavra reservada extends.
 
 -Na classe Main, o objeto Gato, objeto Galinha e objeto Sapo estão sendo instanciados
 e o método som dos objetos está sendo executado.
- 
-
-
+```
